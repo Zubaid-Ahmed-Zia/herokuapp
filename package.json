@@ -1,0 +1,22 @@
+{
+  "name": "forheroku",
+  "version": "1.0.0",
+  "description": "heroku",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hitman666/herokuTestApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hitman666/herokuTestApp/issues"
+  },
+  "homepage": "https://github.com/Hitman666/herokuTestApp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
